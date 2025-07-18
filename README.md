@@ -2,6 +2,7 @@
 
 ## 📌 Overview  
 This Excel-based dashboard analyzes the top causes of female mortality in Nigeria in 2021. It categorizes deaths by disease type and highlights the growing burden of non-communicable and maternal-related health risks.
+I was also able to **extract region data** from the raw dataset and **categorize them into Nigeria’s six geopolitical zones**, allowing for deeper regional analysis and filtering
 
 ## 🔍 Key Findings
 
@@ -33,7 +34,12 @@ This Excel-based dashboard analyzes the top causes of female mortality in Nigeri
 
 ---
 
-## 🎯 Use Case  
+## 🎯 Use Case
+This dashboard can be used to support:
+- Public health policy and intervention planning
+- NGO programming and outreach strategy
+- Donor reporting and advocacy presentations
+- Academic or student portfolios in data/public healt
 This project supports health policy, public health advocacy, and NGO decision-making for improving female health outcomes in Nigeria.
 
 ---
@@ -48,7 +54,13 @@ This project supports health policy, public health advocacy, and NGO decision-ma
 ---
 
 ## ✅ Recommendations
-- Prioritize maternal health in underserved communities
-- Scale up NCD prevention campaigns
-- Use dashboards for health monitoring and advocacy
+* **Scale up maternal health interventions** in rural and underserved areas.
+* **Invest in non-communicable disease prevention**, including screening and awareness programs.
+* **Use data dashboards like this** to support NGO programming, donor reporting, and public health advocacy.
+
+---
+
+## 🙌 Author
+**Blessing Ofili** – Public Health Advocate & Healthcare Data Analyst  
+[LinkedIn Profile](http://linkedin.com/in/ofili-blessing-2b993a272)
 
