@@ -2,7 +2,7 @@
 
 ## 📌 Overview  
 This Excel-based dashboard analyzes the top causes of female mortality in Nigeria in 2021. It categorizes deaths by disease type and highlights the growing burden of non-communicable and maternal-related health risks.
-I was also able to **extract region data** from the raw dataset and **categorize
+I was also able to **extract region data** from the raw dataset
 
 ## 🔍 Key Findings
 
