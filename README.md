@@ -21,7 +21,7 @@ This Excel-based dashboard analyzes the top causes of female mortality in Nigeri
 - **Communicable diseases = 26%**
 
 ## 📊 Dashboard Preview  
-![Female Mortality Dashboard](MORTALITY.png.jpng)
+![Female Mortality Dashboard](MORTALITY.png.jpg)
 
 
 ## 🛠️ Tools Used  
