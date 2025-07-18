@@ -32,7 +32,6 @@ I was also able to **extract region data** from the raw dataset
   - Interactive Slicers
   - Conditional Formatting
 
----
 
 ## 🎯 Use Case
 This dashboard can be used to support:
@@ -58,7 +57,17 @@ This project supports health policy, public health advocacy, and NGO decision-ma
 * **Invest in non-communicable disease prevention**, including screening and awareness programs.
 * **Use data dashboards like this** to support NGO programming, donor reporting, and public health advocacy.
 
----
+## 🔍 Dataset Source
+
+- World Health Organization (WHO)  
+  [https://www.who.int](https://www.who.int)
+  
+  Raw Dataset
+  
+  GHE_FULL_DD.csv
+  
+  *(Raw dataset included in the repository for reference, filtered for Nigeria)*
+
 
 ## 🙌 Author
 **Blessing Ofili** – Public Health Advocate & Healthcare Data Analyst  
